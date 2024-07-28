@@ -5,3 +5,4 @@
 |-----|--------------|------------------|
 | 001.	| [Obscure](https://github.com/Mega-Kranus/TryHackMe-Writeups/blob/main/Writeups/001_Obscure/001.%20Obscure.md)|Medium|
 | 002.	| [New York Flankees](https://github.com/Mega-Kranus/TryHackMe-Writeups/blob/main/Writeups/002_New_York_Flankees/002.%20New%20York%20Flankees.md)|Medium|
+| 003.	| [NanoCherryCTF](https://github.com/Mega-Kranus/TryHackMe-Writeups/blob/main/Writeups/003_NanoCherryCTF/003.%20NanoCherryCTF.md)|Medium|
