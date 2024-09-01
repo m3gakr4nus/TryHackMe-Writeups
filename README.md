@@ -1,3 +1,6 @@
+# ATTENTION
+Please navigate to https://m3gakr4nus.github.io for my writeups...
+
 # TryHackMe-Writeups
 <img src="https://tryhackme-badges.s3.amazonaws.com/m3gakr4nus.png" alt="TryHackMe">
 
